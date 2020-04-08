@@ -11,5 +11,5 @@ Create a database and then use SQL commands to compute and print the ten college
 
 - [https://raw.githubusercontent.com/stat408/Lecture12b/master/player_college.csv](https://raw.githubusercontent.com/stat408/Lecture12b/master/player_college.csv)
 - [https://raw.githubusercontent.com/stat408/Lecture12b/master/player.csv](https://raw.githubusercontent.com/stat408/Lecture12b/master/player.csv)
-- [https://github.com/stat408/Lecture12b/blob/master/batting.csv](https://github.com/stat408/Lecture12b/blob/master/batting.csv)
+- [https://raw.githubusercontent.com/stat408/Lecture12b/master/batting.csv](https://raw.githubusercontent.com/stat408/Lecture12b/master/batting.csv)
 
