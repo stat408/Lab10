@@ -1,15 +1,31 @@
 # Lab10
 
-1. (5 points)
-Use a data scraping technique to pull the table out from the [Bridger Bowl Website](https://bridgerbowl.com/mountain-and-town).
+Please turn in a file with your output and a file containing your SAS code.  
 
-2. (5 points)
-Scrape the table that contains the roster for the MSU womens basketball team [https://www.espn.com/womens-college-basketball/team/roster/_/id/147](https://www.espn.com/womens-college-basketball/team/roster/_/id/147) and compute the average height of the players.
 
-3. (10 points)
-Create a database and then use SQL commands to compute and print the ten colleges with the most home runs. This will require using the following datasets:
+## Questions
 
-- [https://raw.githubusercontent.com/stat408/Lecture12b/master/player_college.csv](https://raw.githubusercontent.com/stat408/Lecture12b/master/player_college.csv)
-- [https://raw.githubusercontent.com/stat408/Lecture12b/master/player.csv](https://raw.githubusercontent.com/stat408/Lecture12b/master/player.csv)
-- [https://raw.githubusercontent.com/stat408/Lecture12b/master/batting.csv](https://raw.githubusercontent.com/stat408/Lecture12b/master/batting.csv)
+### 1. Using PROC MEANS (5 points)
+
+a. Using a LIBNAME reference, load the housing file.
+
+b. Create a new SAS data set that only contains homes in MT, CO, ID, and WY.
+
+c. Use `PROC MEANS` to summarize the price and square footage of the homes **by state**. Note this will require sorting the data set prior to using `PROC MEANS`.
+
+
+### 2. Creating a data set (5 points)
+
+a. Create a data set consisting of your name:
+- name,
+- current location, and 
+- favorite stay-at-home activity.
+
+Also add my info to your dataset
+- name: Andy Hoegh
+- current location: Bozeman
+- favorite stay-at-home activity: cooking
+
+b. Print this data set and make sure to include an informative title.
+
 
